@@ -1,0 +1,37 @@
+,0
+OrganizationIdentifier,USGS-AR
+OrganizationFormalName,USGS Arkansas Water Science Center
+MonitoringLocationIdentifier,USGS-07056000
+MonitoringLocationName,"Buffalo River near St. Joe, AR"
+MonitoringLocationTypeName,Stream
+MonitoringLocationDescriptionText,
+HUCEightDigitCode,11010005
+DrainageAreaMeasure/MeasureValue,829
+DrainageAreaMeasure/MeasureUnitCode,sq mi
+ContributingDrainageAreaMeasure/MeasureValue,
+ContributingDrainageAreaMeasure/MeasureUnitCode,
+LatitudeMeasure,35.98305556
+LongitudeMeasure,-92.7472222
+SourceMapScaleNumeric,
+HorizontalAccuracyMeasure/MeasureValue,10
+HorizontalAccuracyMeasure/MeasureUnitCode,seconds
+HorizontalCollectionMethodName,Mapping grade GPS unit (handheld accuracy range 12 to 40 ft)
+HorizontalCoordinateReferenceSystemDatumName,NAD83
+VerticalMeasure/MeasureValue,555.85
+VerticalMeasure/MeasureUnitCode,feet
+VerticalAccuracyMeasure/MeasureValue,0.2
+VerticalAccuracyMeasure/MeasureUnitCode,feet
+VerticalCollectionMethodName,Level or other surveyed method.
+VerticalCoordinateReferenceSystemDatumName,NAVD88
+CountryCode,US
+StateCode,5
+CountyCode,129
+AquiferName,
+FormationTypeText,
+AquiferTypeName,
+ConstructionDateText,
+WellDepthMeasure/MeasureValue,
+WellDepthMeasure/MeasureUnitCode,
+WellHoleDepthMeasure/MeasureValue,
+WellHoleDepthMeasure/MeasureUnitCode,
+ProviderName,NWIS
