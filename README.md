@@ -1,5 +1,5 @@
 # olm-examples
-Example code that makes use of the Olm carbonate water chemistry package.
+Example code that makes use of the Olm carbonate water chemistry package. You can clone this repository and run code locally, or you can run it on Colab (links below for convenience).
 
 The tutorials available in this repository include:
 
