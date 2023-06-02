@@ -1,5 +1,6 @@
 # olm-examples
-Example code that makes use of the [*Olm* carbonate water chemistry package](https://github.com/CovingtonResearchGroup/olm). You can clone this repository and run code locally, or you can run it on Colab (links below for convenience).
+Example code that makes use of the [*Olm* carbonate water chemistry package](https://github.com/CovingtonResearchGroup/olm). You can clone this repository and run code locally, or you can run it on Colab (links below for convenience). [![DOI](https://zenodo.org/badge/413568617.svg)](https://zenodo.org/badge/latestdoi/413568617)
+
 
 #### The tutorials available in this repository include:
 
